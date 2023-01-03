@@ -11,4 +11,4 @@ Notebook da biblioteca Numpy
 <br><br>
 
 ## Notebook:
-[github.com/GilsonMuniz/alura_data_science_numpy/blob/master/notebook.ipynb](github.com/GilsonMuniz/alura_data_science_numpy/blob/master/notebook.ipynb)
+[Link](github.com/GilsonMuniz/alura_data_science_numpy/blob/master/notebook.ipynb)
